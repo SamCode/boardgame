@@ -1,8 +1,8 @@
 import unittest
 
-from musicnote.core import Game
+from boardgame.base import App
 
-class TestTicTacToeMethods(unittest.TestCase):
+class TestAppMethods(unittest.TestCase):
 
     def setUp(self):
         pass
